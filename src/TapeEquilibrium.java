@@ -1,4 +1,12 @@
-import java.math.*;
+/*
+ * Given an array A, find the minimum of:
+ * 
+ * the absolute difference between the sum of the first part and the sum of the second part.
+ * for any index P in A
+ */
+
+
+
 public class TapeEquilibrium {
 	
 	public static void main(String[] args)
